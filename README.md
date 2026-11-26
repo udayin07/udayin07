@@ -15,24 +15,24 @@ Tools: Visual Studio · VS Code · IntelliJ IDEA · Eclipse · Crystal Reports �
 Project: 
 - [Ballerina Footwear Business Management Website]
 - Stack :ASP.NET Web Forms, C#, SQL Server, Azure, Power BI
-  
-  Team project ("Sovereign Software"): staff and customer web app covering orders, inventory, waste tracking, invoicing and reporting, deployed to Azure. I built the View Orders module.
+
+- Team project ("Sovereign Software"): staff and customer web app covering orders, inventory, waste tracking, invoicing and reporting, deployed to Azure. I built the View Orders module.
 
 
 - [Point of Sale & Inventory Management System]
 - Stack: 	C#, .NET, SQL Server
   
-  Team project. Desktop POS and inventory system. I owned the database layer and ERD. Reporting via Crystal Reports and PDFSharp, plus Power BI dashboards.
+- Team project. Desktop POS and inventory system. I owned the database layer and ERD. Reporting via Crystal Reports and PDFSharp, plus Power BI dashboards.
 
 - [Concurrent Multi-Threaded Order Processing System]
 - Stack: C++, STL, std::thread, std::mutex
   
-  Team of 6. Processes orders concurrently using worker threads synchronised with mutexes, with a text-based UI dashboard.	
+- Team of 6. Processes orders concurrently using worker threads synchronised with mutexes, with a text-based UI dashboard.	
 
 - [Java Projects]
 - Stack: Java
   
-  Java Games	Early university work in Java: OOP, GUI and game logic.	
+- Java Games	Early university work in Java: OOP, GUI and game logic.	
 
 🎓 Experience
 Python Tutor, COMP100 & COMP107, UKZN (Feb–Oct 2026): supported about 95 COMP100 and 30 COMP107 students.
